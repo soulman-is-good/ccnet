@@ -1,0 +1,28 @@
+{
+  "name": "ccnet",
+  "version": "0.0.1",
+  "description": "CashCode NET protocol implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soulman-is-good/ccnet.git"
+  },
+  "keywords": [
+    "CCNET",
+    "CashCode",
+    "protocol",
+    "serialport"
+  ],
+  "author": "Maxim Savin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulman-is-good/ccnet/issues"
+  },
+  "homepage": "https://github.com/soulman-is-good/ccnet",
+  "dependencies": {
+    "serialport": "^1.4.5"
+  }
+}
