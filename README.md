@@ -10,7 +10,7 @@ avail. So we decided to write our owns. Banal decision you think, yes.
 Installation
 -------------
 
-```javascript
+```bash
 npm install ccnet
 ```
 
@@ -26,7 +26,7 @@ ccnet.execute('RESET',function(err){
     if(err){
         console.error(err);
     } else {
-        console.log(');
+        console.log('RESET finished');
     }
 });
 //OR just
